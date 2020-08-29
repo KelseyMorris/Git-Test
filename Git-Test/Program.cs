@@ -8,7 +8,7 @@ namespace Git_Test
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Guess a number between 0 and 100");
+            Console.WriteLine("Guess a letter between x and y");
              static int FindNumber()
             {
                 int guess = 0;
